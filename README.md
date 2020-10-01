@@ -1,2 +1,2 @@
 # KMEANS-Clustering-C-OPENMP-CUDA-MPI
-Kmeans clustering using c , openmp , cuda and mpi program
+Kmeans clustering using c , Openmp , CUDA and MPI programming.
